@@ -1,15 +1,15 @@
-House Price Prediction Project
-Overview
+**House Price Prediction Project**
+__Overview__
 This project aims to predict the prices of houses based on various features such as location, square footage, number of rooms, and more. Using machine learning algorithms, we built a model that can estimate the price of a house given certain input features. The project demonstrates the application of data preprocessing, exploratory data analysis (EDA), and regression models to solve a real-world problem.
 
-Key Technologies
+**Key Technologies**
 Programming Language: Python
 Libraries/Frameworks Used:
 Pandas: Data manipulation and cleaning
 NumPy: Numerical computations
 Matplotlib & Seaborn: Data visualization
 Scikit-learn: Machine learning (for regression models, feature selection, and model evaluation)
-Objective
+**Objective**
 The primary goal of this project was to develop a model that can predict house prices accurately based on the dataset features. By analyzing the dataset, cleaning the data, and using appropriate regression models, we aimed to predict the price with a reasonable level of accuracy.
 
 Steps Involved
